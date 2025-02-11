@@ -23,11 +23,11 @@ pluralizelisttitles = false
     url        = "/"
     weight     = 1
 
-# [[menu.main]]
-#     identifier = "services"
-#     name       = "Services"
-#     url        = "/services/"
-#     weight     = 2
+[[menu.main]]
+    identifier = "services"
+    name       = "Our Services"
+    url        = "/services/"
+    weight     = 2
 
 # [[menu.main]]
 #     identifier = "contact"
